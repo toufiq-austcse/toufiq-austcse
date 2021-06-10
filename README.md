@@ -2,10 +2,11 @@
 
 ## Md. Toufiqul Islam
 
-> Associate Software Engineer, Backend at [Robi 10 Minute School](https://10minuteschool.com/)
+> Assistant Senior Software Engineer, Backend at [Robi 10 Minute School](https://10minuteschool.com/)
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/toufiqcse36/)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/toufiq_15)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/toufiq.austcse/) 
 
+![Profile views](https://gpvc.arturio.dev/toufiq-austcse)
 
 Hi there, This is Md. Toufiqul Islam, 22 years old, currently living in Dhaka, Bangladesh. Love to write and maintain backend system with a focus on creating scalable, maintainable and impactful products.
 
