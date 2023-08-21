@@ -2,7 +2,7 @@
 
 ## Md. Toufiqul Islam
 
-> Assistant Senior Software Engineer, Backend at [10 Minute School](https://10minuteschool.com/)
+> Senior Software Engineer, Backend at [10 Minute School](https://10minuteschool.com/)
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/toufiqcse36/)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/toufiq_15)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/toufiq.austcse/) 
 
