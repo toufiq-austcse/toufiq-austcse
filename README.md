@@ -1,4 +1,4 @@
-## Md. Toufiqul Islam
+## Md. Toufiqul Islam [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=toufiq-austcse&show_icons=true"/>](https://github.com/toufiq-austcse)
 
 > Senior Software Engineer, Backend at [10 Minute School](https://10minuteschool.com/)
 
@@ -23,6 +23,6 @@ Skills & Technologies:
 - React, Next.js
 - Github Actions
 
-[<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=toufiq-austcse&show_icons=true"/>](https://github.com/toufiq-austcse)
+
 
 
