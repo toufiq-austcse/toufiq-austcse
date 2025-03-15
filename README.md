@@ -12,8 +12,8 @@ Typically I love to work with ![Nodejs Logo](https://img.icons8.com/color/18/000
 
 
 Skills & Technologies:
-- JavaScript, TypeScript, Golang, Java
-- Node.js, Express, NestJS, Gin
+- Golang, JavaScript, TypeScript, Java
+- Gin, Node.js, Express, NestJS
 - RESTful, gRPC, GraphQL API
 - PostgreSQL, MySQL, Redis, MongoDB, InfluxDB, Firebase, Typesense
 - RabbitMQ, Apache Airflow
